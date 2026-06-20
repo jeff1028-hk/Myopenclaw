@@ -1,0 +1,4 @@
+auth.json
+*.key
+*.pem
+acme.json
